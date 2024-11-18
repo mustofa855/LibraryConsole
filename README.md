@@ -48,10 +48,10 @@ Masukan opsi: 1
 ====================================================================================================
 No   | Judul                                    | Penulis                                  | Tahun
 ----------------------------------------------------------------------------------------------------
-   1 | Python dasar untuk para ucup ucup yang t | Faqihza Mukhlish                         | 2085
-   2 | Python dasar untuk para ucup ucup yang t | Faqihza Mukhlish                         | 2060
-   3 | Galaxy bima sakti: sebuah rahasia        | otong                                    | 1998
-   4 | Ucup bermain antar galaxy                | Joko sujoko                              | 1999
+   1 | Bermain Sepak Bola                       | Mustofa                                  | 2085
+   2 | Berlatih sepka bola                      | Mstfa                                    | 2060
+   3 | Taktik sepak Bola                        | Saskeh                                   | 1998
+   4 | Taktik Bola 2020                         | Naruto                                   | 1999
 ====================================================================================================
 Cara Kontribusi
 Fork repositori ini.
