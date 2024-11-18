@@ -49,7 +49,7 @@ Masukan opsi: 1
 No   | Judul                                    | Penulis                                  | Tahun
 ----------------------------------------------------------------------------------------------------
    1 | Bermain Sepak Bola                       | Mustofa                                  | 2085
-   2 | Berlatih sepka bola                      | Mstfa                                    | 2060
+   2 | Berlatih sepak bola                      | Mstfa                                    | 2060
    3 | Taktik sepak Bola                        | Saskeh                                   | 1998
    4 | Taktik Bola 2020                         | Naruto                                   | 1999
 ====================================================================================================
