@@ -1,0 +1,1 @@
+data = "Mustofa Ganteng Banget"
