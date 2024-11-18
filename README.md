@@ -35,8 +35,6 @@ Ikuti menu yang tersedia untuk memilih opsi yang ingin dijalankan (Read Data, Cr
 Contoh Output Program
 Setelah memilih opsi "1" untuk membaca data, Anda akan melihat tampilan seperti ini:
 
-markdown
-Salin kode
 SELAMAT DATANG DI PROGRAM
 DATABASE PERPUSTAKAAN
 =========================
